@@ -1,0 +1,34 @@
+@media screen and (max-width: 900px) {
+    body {
+      background-size: 80%; 
+      background-position: auto; 
+    }
+
+    .nav-seperation {
+        width: 49%;
+    }
+
+    .nav-community-button {
+        display: none;
+    }
+
+    .td {
+        width: 18%;
+        font-size: x-small;
+    }
+
+    #faqs {
+        height: 700px;
+    }
+
+    .info-details > a {
+        font-size: x-small;
+        margin-left: 5px;
+    }
+
+    .testimonials-image {
+        margin-top: 40px;
+    }
+
+
+}
